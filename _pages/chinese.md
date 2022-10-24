@@ -1,20 +1,31 @@
 ---
 permalink: /chinese/
-title: "个人简洁"
+title: "个人简介"
 author_profile: true
 
 ---
 
-I am currently a PhD student in the Zhejiang University, my research interests mainly lie in computational imaging of lensless optics.<br>
-I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020. 
+我是张颖而，目前浙江大学博士三年级在读。
 
-Research Interests
+研究方向
 ======
-I work on a smaller and more capable cameras that removes the lens. My work includes improving image quality and applications based on the camera. It is at the intersection of signal processing, optics, optimization, and machine learning.
-I also study the application of machine learning in the field of recommended and advertising.
+* 计算光学：主要研究课题为 基于深度学习的无透镜系统,包括成像和应用。
+* 机器学习、深度学习在推荐广告场景中的应用。
 
+教育经历
+======
+2020-至今，浙江大学信息与电子工程学院，博士研究生。<br>
+2016-2020年，浙江大学信息与电子工程学院，本科生。
 
-Publications
+实习经历
+======
+* <i>2019年6月-2019年9月</i>, 新加坡国立大学计算机系，科研助理。
+
+* <i>2020年5月-2020年9月</i>, 美团点评，算法岗实习生. 提升美团联名卡获客场景转化率. [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
+
+* <i>2021年10月-2021年12月</i>, 阿里巴巴，算法岗实习生. 夸克交互式搜索场景下tag权重预估. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
+
+论文列表
 ======
 * <b>A Deep Learning Method for SAR Imaging in Sparse Field</b>. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9581539) <br>
 <b>Zhang Y</b>, Zhang P, Wu Z, et al. <i>2021 International Applied Computational Electromagnetics Society (ACES-China) Symposium. IEEE, 2021: 1-2<i>.
@@ -28,22 +39,14 @@ Publications
 * <b>Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising</b>. [[PDF]](https://arxiv.org/abs/2105.08489) [[code]](https://github.com/xidongbo/AITM) <br>
 Xi, D., Chen, Z., Yan, P., <b>Zhang, Y.</b>, Zhu, Y., Zhuang, F., & Chen, Y. <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.<i>
 
-Internships
+奖学金及荣誉称号
 ======
-* <i>June.2019-Sep.2019</i>, I worked as a research assistant in the Department of Computer Science, National University of Singapore.
-
-* <i>May.2020-Sep.2020</i>, I worked as a MLE intern in Meituan, Beijing. I improved the customer acquisition model for Meituan Co-Branded Credit Cards. [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
-
-* <i>Oct.2021-Dec.2021</i>, I worked as a MLE intern in Alibaba, Hangzhou. I designed algorithms to filter the tags selected by users to improve searching satisfaction in the interactive search scenario of Quark Medical. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
-
-
-Awards 
-======
-* Outstanding graduate student of Zhejiang University,2021.
-* Outstanding Graduates of Zhejiang Province,2020. (3% students awarded)
-* Outstanding Graduates of Zhejiang University,2020.
-* First-class Scholarship for Outstanding Student in Zhejiang University,2018 & 2019. (5% students awarded)
-* Zhejiang Province Scholarship,2018 (3% students awarded)
-* Honor of Outstanding Student Leaders in Zhejiang University,2018. (5% students awarded)
+* 2021年浙江大学优秀研究生
+* 2021年浙江大学三好研究生
+* 2020年浙江省优秀毕业生
+* 2020年浙江大学优秀毕业生
+* 2018 & 2019年浙江大学一等奖学业奖学金
+* 2018年浙江省政府奖学金
+* 2018年浙江大学优秀学生干部
 
 
