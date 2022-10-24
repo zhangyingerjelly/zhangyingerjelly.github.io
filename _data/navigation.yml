@@ -2,9 +2,6 @@
 main:
   - title: "Chinese"
     url: /portfolio/
-
-  - title: "Publications"
-    url: /publications/
     
   - title: "CV"
     url: /cv/
