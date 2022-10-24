@@ -14,16 +14,14 @@ author_profile: true
 
 教育经历
 ======
-2020-至今，浙江大学信息与电子工程学院，博士研究生。<br>
-2016-2020年，浙江大学信息与电子工程学院，本科生。
+2020-至今，浙江大学信息与电子工程学院，博士研究生<br>
+2016-2020年，浙江大学信息与电子工程学院，本科生
 
 实习经历
 ======
-* <i>2019年6月-2019年9月</i>, 新加坡国立大学计算机系，科研助理。
-
-* <i>2020年5月-2020年9月</i>, 美团点评，算法岗实习生. 提升美团联名卡获客场景转化率. [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
-
-* <i>2021年10月-2021年12月</i>, 阿里巴巴，算法岗实习生. 夸克交互式搜索场景下tag权重预估. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
+* 2019年6月-2019年9月, 新加坡国立大学计算机系，科研助理。
+* 2020年5月-2020年9月, 美团点评，算法岗实习生. 提升美团联名卡获客场景转化率。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
+* 2021年10月-2021年12月, 阿里巴巴，算法岗实习生. 夸克交互式搜索场景下tag权重预估。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 
 论文列表
 ======
