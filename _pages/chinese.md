@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+permalink: /chinese/
+title: "个人简洁"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 I am currently a PhD student in the Zhejiang University, my research interests mainly lie in computational imaging of lensless optics.<br>
