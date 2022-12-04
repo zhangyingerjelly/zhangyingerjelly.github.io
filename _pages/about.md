@@ -39,7 +39,7 @@ Internships
 
 * <i>Oct.2021-Dec.2021</i>, I worked as a MLE intern in Alibaba Group, Hangzhou. I designed algorithms to filter the tags selected by users to improve searching satisfaction in the interactive search scenario of Quark Medical. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 
-  * <i>Nov.2022-</i>, I worked as a research intern in Ant Group, Hangzhou. I do research on Uncertainty in Deep Learning and Application in Recommendation Advertisement System. 
+* <i>Nov.2022-</i>, I worked as a research intern in Ant Group, Hangzhou. I do research on Uncertainty in Deep Learning and Application in Recommendation Advertisement System. 
 
 
 Awards 
