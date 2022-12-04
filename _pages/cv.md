@@ -10,7 +10,7 @@ redirect_from:
 
 Curriculum Vitae
 ======
-[English CV [PDF]]()
+[English CV [PDF]](https://zhangyingerjelly.github.io/files/cv/cv_zhangyinger_zju.pdf)
 
 [Chinese CV [PDF]](https://zhangyingerjelly.github.io/files/cv/cv_zhangyinger_chinese.pdf)
 
