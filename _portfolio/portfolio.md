@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in the Zhejiang University, my research interests mainly lie in computational imaging of lensless optics.<br>
+I am currently a third yearPhD student in the Zhejiang University, my research interests mainly lie in computational imaging of lensless optics.commerce electronique (personnalisation at systems of recommandation).<br>
 I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020. 
 
 Research Interests
@@ -39,6 +39,7 @@ Internships
 
 * <i>Oct.2021-Dec.2021</i>, I worked as a MLE intern in Alibaba, Hangzhou. I designed algorithms to filter the tags selected by users to improve searching satisfaction in the interactive search scenario of Quark Medical. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 
+* <i>Nov.2022-, I worked as a research intern in Ant Group, Hangzhou. I do research on Uncertainty in Deep Learning and Application in Recommendation Advertisement System.
 
 Awards 
 ======
