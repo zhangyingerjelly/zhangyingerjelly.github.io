@@ -52,10 +52,10 @@ Internships
 
 * <i>Oct.2021-Dec.2021</i>, I worked as a MLE intern in Alibaba Group, Hangzhou. Interactive search engine of Quark Medical. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 
-* <i>Nov.2022-Nov.2023</i>, I worked as a research intern in Ant Group, Hangzhou.
-  Distillation between experts in mixture-of-expert, “MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts”. <br>
-  Tool usage for LLMs, “Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning”.<br>
-  Web-Enhanced QA system based on LLMs.
+* <i>Nov.2022-Nov.2023</i>, I worked as a research intern in Ant Group, Hangzhou.<br>
+  ** Distillation between experts in mixture-of-expert, “MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts”. <br>
+  ** Tool usage for LLMs, “Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning”.<br>
+  ** Web-Enhanced QA system based on LLMs.
 
 * <i>Dec.2023-</i>, I worked as a visiting scholar in National University of Singapore.
   
