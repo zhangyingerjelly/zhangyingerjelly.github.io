@@ -16,6 +16,13 @@ Research Interests
 I work on a smaller and more capable cameras that removes the lens. My work includes improving image quality and applications based on the camera. It is at the intersection of signal processing, optics, optimization, and machine learning.
 I also study the application of machine learning in the field of recommended and advertising systems. Currently, I am working as a research intern at Ant Group.
 
+# AI applications (e.g. CV, NLP)
+# Computational imaging
+# Recommendation System
+# Large Language Model
+
+
+
 Publications
 ======
 * <b>A Deep Learning Method for SAR Imaging in Sparse Field</b>. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9581539) <br>
