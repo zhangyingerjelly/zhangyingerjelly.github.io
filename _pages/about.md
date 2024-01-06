@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third year PhD student in the Zhejiang University, my research interests mainly lie in computational imaging of lensless optics, recommandation system.<br>
-I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020. 
+I am a fourth-year PhD student at Zhejiang University. I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020. <br>
+Nowadays, I am a visiting phd student in National University of Singapore.
 
 Research Interests
 ======
