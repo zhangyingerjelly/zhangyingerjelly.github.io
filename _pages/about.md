@@ -16,10 +16,10 @@ Research Interests
 I work on a smaller and more capable cameras that removes the lens. My work includes improving image quality and applications based on the camera. It is at the intersection of signal processing, optics, optimization, and machine learning.
 I also study the application of machine learning in the field of recommended and advertising systems. Currently, I am working as a research intern at Ant Group.
 
-# AI applications (e.g. CV, NLP)
-# Computational imaging
-# Recommendation System
-# Large Language Model
+<b>AI applications (e.g. CV, NLP)</b>
+<b>Computational imaging</b>
+<b>Recommendation System</b>
+<b>Large Language Model</b>
 
 
 
