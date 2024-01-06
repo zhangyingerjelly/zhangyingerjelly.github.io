@@ -14,8 +14,7 @@ Nowadays, I am a visiting phd student in National University of Singapore.
 
 Research Interests
 ======
-I work on a smaller and more capable cameras that removes the lens. My work includes improving image quality and applications based on the camera. It is at the intersection of signal processing, optics, optimization, and machine learning.
-I also study the application of machine learning in the field of recommended and advertising systems.
+I also study the application of machine learning in the field of recommended and advertising systems. I work on a smaller and more capable cameras that removes the lens. My work includes improving image quality and applications based on the camera. It is at the intersection of signal processing, optics, optimization, and machine learning.
 
 <b>\#AI applications (e.g. CV, NLP)</b>
 
