@@ -9,10 +9,12 @@ author_profile: true
 
 目前，我正在新加披国立大学进行访问。
 
-研究方向
+研究课题
 ======
-* 计算光学：主要研究课题是基于深度学习的无透镜系统,包括成像和应用。
-* 机器学习、深度学习在推荐广告场景中的应用。
+主要研究深度学习在各领域的应用：
+* 计算成像：基于深度学习的无透镜成像系统。
+* 深度学习在推荐广告场景中的应用。
+* 大语言模型的应用。
 
 教育经历
 ======
@@ -22,9 +24,9 @@ author_profile: true
 实习经历
 ======
 * 2019年6月-2019年9月, 新加坡国立大学计算机系，科研助理。
-* 2020年5月-2020年9月, 美团点评，算法岗实习生. 提升美团联名卡获客场景转化率。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
-* 2021年10月-2021年12月, 阿里巴巴，算法岗实习生. 夸克交互式搜索场景下tag权重预估。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
-* 2022年11月-2023年6月，蚂蚁金服，研究型实习生，深度学习中的不确定性研究。
+* 2020年5月-2020年9月, 美团点评，算法岗实习生。 提升美团联名卡获客场景转化率。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
+* 2021年10月-2021年12月, 阿里巴巴，算法岗实习生。 夸克交互式搜索场景。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
+* 2022年11月-2023年11月，蚂蚁金服，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习，基于大语言模型的搜索增强。
 
 论文列表
 ======
@@ -41,6 +43,8 @@ author_profile: true
 
 * <b>Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising</b>. [[PDF]](https://arxiv.org/abs/2105.08489) [[code]](https://github.com/xidongbo/AITM) <br>
 Xi, D., Chen, Z., Yan, P., <b>Zhang, Y.</b>, Zhu, Y., Zhuang, F., & Chen, Y. <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.<i>
+
+
 
 奖学金及荣誉称号
 ======
