@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at Zhejiang University. I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020。<br>
+I am a fourth-year PhD student at Zhejiang University. I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020.<br>
 Nowadays, I am a visiting phd student in National University of Singapore.
 
 Research Interests
