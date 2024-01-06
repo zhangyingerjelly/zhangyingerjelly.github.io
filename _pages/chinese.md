@@ -31,6 +31,7 @@ author_profile: true
 
 论文列表
 ======
+(*indicates equal contribution)
 * <b>A Deep Learning Method for SAR Imaging in Sparse Field</b>. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9581539) <br>
 <b>Zhang Y</b>, Zhang P, Wu Z, et al. <i>2021 International Applied Computational Electromagnetics Society (ACES-China) Symposium. IEEE, 2021: 1-2<i>.
 
@@ -45,11 +46,11 @@ author_profile: true
 * <b>Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising</b>. [[PDF]](https://arxiv.org/abs/2105.08489) [[code]](https://github.com/xidongbo/AITM) <br>
 Xi, D., Chen, Z., Yan, P., <b>Zhang, Y.</b>, Zhu, Y., Zhuang, F., & Chen, Y. <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.<i>
 
-* <b>MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts </b>
-Xie Zhitian*, <b>Zhang Yinger*,accepted by AAAI 2024, main conference.
-[7] Zhang Yinger*, Cai Hui*, “Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning,” arXiv:2310.04474v2, under review in NAACL 2024, [paper]
+* <b>MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts </b>. <br>
+Xie Zhitian*, <b>Zhang Yinger</b>*,accepted by AAAI 2024, main conference.
 
-
+* <b>Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning</b>. <br>
+<b>Zhang Yinger</b>*, Cai Hui*,  arXiv:2310.04474v2, under review in NAACL 2024, [paper]
 
 
 奖学金及荣誉称号
