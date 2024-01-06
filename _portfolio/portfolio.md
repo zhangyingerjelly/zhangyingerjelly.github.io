@@ -41,12 +41,17 @@ Internships
 ======
 * <i>June.2019-Sep.2019</i>, I worked as a research assistant in the Department of Computer Science, National University of Singapore.
 
-* <i>May.2020-Sep.2020</i>, I worked as a MLE intern in Meituan, Beijing. I improved the customer acquisition model for Meituan Co-Branded Credit Cards. [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
+* <i>May.2020-Sep.2020</i>, I worked as a MLE intern in Meituan, Beijing.  Multi-task learning model in recommender systems. [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
 
-* <i>Oct.2021-Dec.2021</i>, I worked as a MLE intern in Alibaba Group, Hangzhou. I designed algorithms to filter the tags selected by users to improve searching satisfaction in the interactive search scenario of Quark Medical. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
+* <i>Oct.2021-Dec.2021</i>, I worked as a MLE intern in Alibaba Group, Hangzhou. Interactive search engine of Quark Medical. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 
-* <i>Nov.2022-</i>, I worked as a research intern in Ant Group, Hangzhou. I do research on Uncertainty in Deep Learning and Application in Recommendation Advertisement System. 
+* <i>Nov.2022-Nov.2023</i>, I worked as a research intern in Ant Group, Hangzhou.
+  Distillation between experts in mixture-of-expert, “MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts”. <br>
+  Tool usage for LLMs, “Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning”.<br>
+  Web-Enhanced QA system based on LLMs.
 
+* <i>Dec.2023-</i>, I worked as a visiting scholar in National University of Singapore.
+  
 
 Awards 
 ======
