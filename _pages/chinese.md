@@ -27,6 +27,7 @@ author_profile: true
 * 2020年5月-2020年9月, 美团点评，算法岗实习生。 提升美团联名卡获客场景转化率。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
 * 2021年10月-2021年12月, 阿里巴巴，算法岗实习生。 夸克交互式搜索场景。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 * 2022年11月-2023年11月，蚂蚁金服，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习，基于大语言模型的搜索增强。
+* 2023年12月-至今，新加披国立大学联合培养博士生。
 
 论文列表
 ======
@@ -43,6 +44,11 @@ author_profile: true
 
 * <b>Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising</b>. [[PDF]](https://arxiv.org/abs/2105.08489) [[code]](https://github.com/xidongbo/AITM) <br>
 Xi, D., Chen, Z., Yan, P., <b>Zhang, Y.</b>, Zhu, Y., Zhuang, F., & Chen, Y. <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.<i>
+
+* <b>MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts </b>
+Xie Zhitian*, <b>Zhang Yinger*,accepted by AAAI 2024, main conference.
+[7] Zhang Yinger*, Cai Hui*, “Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning,” arXiv:2310.04474v2, under review in NAACL 2024, [paper]
+
 
 
 
