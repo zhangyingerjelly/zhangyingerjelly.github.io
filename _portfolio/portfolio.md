@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third yearPhD student in the Zhejiang University, my research interests mainly lie in computational imaging of lensless optics, commerce electronique (personnalisation at systems of recommandation).<br>
-I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020. 
+I am a fourth year PhD student at Zhejiang University. I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020. Nowadays, I am a visiting phd student in National University of Singapore.
 
 Research Interests
 ======
-I work on a smaller and more capable cameras that removes the lens. My work includes improving image quality and applications based on the camera. It is at the intersection of signal processing, optics, optimization, and machine learning.<br>
-I also study the application of machine learning in the field of recommended and advertising.
-
+I work on a smaller and more capable cameras that removes the lens. My work includes improving image quality and applications based on the camera. It is at the intersection of signal processing, optics, optimization, and machine learning. I also study the application of machine learning in the field of recommended and advertising systems.
 
 Publications
 ======
@@ -28,6 +25,8 @@ Publications
 * <b>Hand gestures recognition in videos taken with a lensless camera</b>. [[PDF]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-22-39520&id=509832) <br>
 <b>Zhang Y</b>, Wu Z, Lin P, et al. <i>Optics Express, 2022, 30(22): 39520-39533.<i>
 
+* <b> Dual-branch fusion model for lensless imaging. </b>. <br> <b>Zhang Y</b> <i>Optics Express,2023, 31(12) : 19463-19477.<i>
+  
 * <b>Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising</b>. [[PDF]](https://arxiv.org/abs/2105.08489) [[code]](https://github.com/xidongbo/AITM) <br>
 Xi, D., Chen, Z., Yan, P., <b>Zhang, Y.</b>, Zhu, Y., Zhuang, F., & Chen, Y. <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.<i>
 
@@ -37,9 +36,10 @@ Internships
 
 * <i>May.2020-Sep.2020</i>, I worked as a MLE intern in Meituan, Beijing. I improved the customer acquisition model for Meituan Co-Branded Credit Cards. [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
 
-* <i>Oct.2021-Dec.2021</i>, I worked as a MLE intern in Alibaba, Hangzhou. I designed algorithms to filter the tags selected by users to improve searching satisfaction in the interactive search scenario of Quark Medical. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
+* <i>Oct.2021-Dec.2021</i>, I worked as a MLE intern in Alibaba Group, Hangzhou. I designed algorithms to filter the tags selected by users to improve searching satisfaction in the interactive search scenario of Quark Medical. [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 
-* <i>Nov.2022-now </i>, I worked as a research intern in Ant Group, Hangzhou. I do research on Uncertainty in Deep Learning and Application in Recommendation Advertisement System.
+* <i>Nov.2022-</i>, I worked as a research intern in Ant Group, Hangzhou. I do research on Uncertainty in Deep Learning and Application in Recommendation Advertisement System. 
+
 
 Awards 
 ======
