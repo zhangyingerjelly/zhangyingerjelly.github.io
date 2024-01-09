@@ -39,7 +39,7 @@ Publications
 Xi, D., Chen, Z., Yan, P., <b>Zhang, Y.</b>, Zhu, Y., Zhuang, F., & Chen, Y. <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.<i>
 
 * <b>MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts </b>. <br>
-Xie Zhitian\*, <b>Zhang Yinger</b>\*,accepted by AAAI 2024, main conference.
+Xie Zhitian\*, <b>Zhang Yinger</b>\*, accepted by AAAI 2024, main conference.
 
 * <b>Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning</b>. <br>
 <b>Zhang Yinger</b>\*, Cai Hui\*,  arXiv:2310.04474v2, under review in NAACL 2024.
@@ -62,11 +62,11 @@ Internships
 
 Awards 
 ======
-* Outstanding graduate student of Zhejiang University,2021.
-* Outstanding Graduates of Zhejiang Province,2020. (3% students awarded)
-* Outstanding Graduates of Zhejiang University,2020.
-* First-class Scholarship for Outstanding Student in Zhejiang University,2018 & 2019. (5% students awarded)
-* Zhejiang Province Scholarship,2018 (3% students awarded)
-* Honor of Outstanding Student Leaders in Zhejiang University,2018. (5% students awarded)
+* Outstanding graduate student of Zhejiang University, 2021.
+* Outstanding Graduates of Zhejiang Province, 2020. (3% students awarded)
+* Outstanding Graduates of Zhejiang University, 2020.
+* First-class Scholarship for Outstanding Student in Zhejiang University, 2018 & 2019. (5% students awarded)
+* Zhejiang Province Scholarship, 2018 (3% students awarded)
+* Honor of Outstanding Student Leaders in Zhejiang University, 2018. (5% students awarded)
 
 
