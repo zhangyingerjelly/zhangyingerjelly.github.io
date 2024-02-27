@@ -26,7 +26,8 @@ author_profile: true
 * 2019年6月-2019年9月, 新加坡国立大学计算机系，科研助理。
 * 2020年5月-2020年9月, 美团点评，算法岗实习生。 提升美团联名卡获客场景转化率。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
 * 2021年10月-2021年12月, 阿里巴巴，算法岗实习生。 夸克交互式搜索场景。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
-* 2022年11月-2023年11月，蚂蚁金服，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习，基于大语言模型的搜索增强[[pdf]] (https://zhangyingerjelly.github.io/files/introduce_Reverse_chain.pdf)
+* 2022年11月-2023年11月，蚂蚁金服，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习，基于大语言模型的搜索增强. 
+ [[pdf]](https://zhangyingerjelly.github.io/files/introduce_Reverse_chain.pdf)
 * 2023年12月-至今，新加披国立大学联合培养博士生。
 
 论文列表
