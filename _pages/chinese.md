@@ -7,7 +7,7 @@ author_profile: true
 
 我是张颖而，是浙江大学信息与电子学院四年级博士生。2016-2020年我在浙江大学电子科学与技术专业读本科。
 
-目前，我正在新加披国立大学进行访问。
+目前，我正在新加坡国立大学进行访问。
 
 研究课题
 ======
@@ -28,7 +28,7 @@ author_profile: true
 * 2021年10月-2021年12月, 阿里巴巴，算法岗实习生。 夸克交互式搜索场景。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 * 2022年11月-2023年11月，蚂蚁金服，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习[[PDF]](https://zhangyingerjelly.github.io/files/introduce_Reverse_chain.pdf)，基于大预言模型的 web-enhanced LFQA [[PDF]](https://zhangyingerjelly.github.io/files/introduction_RAG.pdf) 
  
-* 2023年12月-至今，新加披国立大学联合培养博士生。
+* 2023年12月-至今，CSC 新加坡国立大学联合培养博士生。
 
 论文列表
 ======
