@@ -51,7 +51,7 @@ Xi, D., Chen, Z., Yan, P., <b>Zhang, Y.</b>, Zhu, Y., Zhuang, F., & Chen, Y. <i>
 Xie Zhitian\*, <b>Zhang Yinger</b>\*,accepted by AAAI 2024, main conference.
 
 * <b>Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning</b>. <br>
-<b>Zhang Yinger</b>\*, Cai Hui\*,  arXiv:2310.04474v2, under review in NAACL 2024.
+<b>Zhang Yinger</b>\*, Cai Hui\*,  arXiv:2310.04474v2, Findings of NAACL 2024.
 
 
 奖学金及荣誉称号
