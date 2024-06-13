@@ -7,7 +7,7 @@ author_profile: true
 
 我是张颖而，是浙江大学信息与电子学院四年级博士生。2016-2020年我在浙江大学电子科学与技术专业读本科。
 
-目前，我正在新加坡国立大学进行访问。
+目前，我正在阿里巴巴通义实验室实习。
 
 研究课题
 ======
@@ -27,8 +27,8 @@ author_profile: true
 * 2020年5月-2020年9月, 美团点评，算法岗实习生。 提升美团联名卡获客场景转化率。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
 * 2021年10月-2021年12月, 阿里巴巴，算法岗实习生。 夸克交互式搜索场景。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 * 2022年11月-2023年11月，蚂蚁金服，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习[[PDF]](https://zhangyingerjelly.github.io/files/introduce_Reverse_chain.pdf)，基于大预言模型的 web-enhanced LFQA [[PDF]](https://zhangyingerjelly.github.io/files/introduction_RAG.pdf) 
- 
-* 2023年12月-至今，CSC 新加坡国立大学联合培养博士生。
+* 2023年12月-2024年5月，CSC 新加坡国立大学联合培养博士生。
+* 2024年5月-至今，阿里巴巴通义实验室,千问基座团队，算法实习生，负责 qwen 模型 function call 能力的优化。
 
 论文列表
 ======
