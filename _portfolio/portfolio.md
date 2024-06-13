@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a fourth-year PhD student at Zhejiang University. I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020.<br>
-Nowadays, I am a visiting phd student in National University of Singapore.
+Nowadays, I am an Intern in Qwen team, Alibaba Group.
 
 Research Interests
 ======
