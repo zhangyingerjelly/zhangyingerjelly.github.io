@@ -57,7 +57,9 @@ Internships
   ** Tool usage for LLMs, “Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning”.<br>
   ** Web-Enhanced QA system based on LLMs.
 
-* <i>Dec.2023-</i>, I worked as a visiting scholar in National University of Singapore.
+* <i>Dec.2023-May.2024</i>, I worked as a visiting scholar in National University of Singapore.<br>
+
+* <i>May.2024-</i>, I worked as a MLE intern in Alibaba Group, Hangzhou.
   
 
 Awards 
