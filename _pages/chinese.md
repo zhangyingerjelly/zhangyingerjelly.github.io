@@ -14,7 +14,7 @@ author_profile: true
 主要研究深度学习在各领域的应用：
 * 计算成像：基于深度学习的无透镜成像系统。
 * 深度学习在推荐广告场景中的应用。
-* 大语言模型的应用。
+* 大语言模型的应用:基于大模型的工具学习，基于大模型的检索增强。
 
 教育经历
 ======
@@ -26,9 +26,9 @@ author_profile: true
 * 2019年6月-2019年9月, 新加坡国立大学计算机系，科研助理。
 * 2020年5月-2020年9月, 美团点评，算法岗实习生。 提升美团联名卡获客场景转化率。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_meituan/intern_meituan.pdf)
 * 2021年10月-2021年12月, 阿里巴巴，算法岗实习生。 夸克交互式搜索场景。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
-* 2022年11月-2023年11月，蚂蚁金服，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习[[PDF]](https://zhangyingerjelly.github.io/files/introduce_Reverse_chain.pdf)，基于大预言模型的 web-enhanced LFQA [[PDF]](https://zhangyingerjelly.github.io/files/introduction_RAG.pdf) 
+* 2022年11月-2023年11月，蚂蚁集团，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习[[PDF]](https://zhangyingerjelly.github.io/files/introduce_Reverse_chain.pdf)，基于大语言模型的 web-enhanced LFQA [[PDF]](https://zhangyingerjelly.github.io/files/introduction_RAG.pdf) 
 * 2023年12月-2024年5月，CSC 新加坡国立大学联合培养博士生。
-* 2024年5月-至今，阿里巴巴通义实验室,千问基座团队，算法实习生，负责 qwen 模型 function call 能力的优化。
+* <b> 2024年5月-至今，阿里巴巴通义实验室,千问基础大模型团队，暑期实习生，负责 qwen 模型 function call 能力的优化。</b>
 
 论文列表
 ======
@@ -63,5 +63,6 @@ Xie Zhitian\*, <b>Zhang Yinger</b>\*,accepted by AAAI 2024, main conference.
 * 2018 & 2019年浙江大学一等奖学业奖学金
 * 2018年浙江省政府奖学金
 * 2018年浙江大学优秀学生干部
+* 2023年国家公派留学奖学金
 
 
