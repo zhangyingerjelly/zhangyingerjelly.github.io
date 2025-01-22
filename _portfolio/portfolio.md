@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at Zhejiang University. I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020.<br>
-Nowadays, I am an Intern in Qwen team, Alibaba Group.
+I am a fifth-year PhD student at Zhejiang University. I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020.<br>
+I will join the Qwen team, Alibaba Group after graduation.
 
 Research Interests
 ======
@@ -17,9 +17,7 @@ Research Interests
 
 <b>\# Computational imaging</b>
 
-<b>\# Recommendation System</b>
-
-<b>\# Large Language Model</b>
+<b>\# Large Language Model, Agent</b>
 
 Publications
 ======
