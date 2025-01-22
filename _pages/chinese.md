@@ -28,7 +28,7 @@ author_profile: true
 * 2021年10月-2021年12月, 阿里巴巴，算法岗实习生。 夸克交互式搜索场景。 [[PDF]](https://zhangyingerjelly.github.io/files/intern_alibaba/intern_ali.pdf)
 * 2022年11月-2023年11月，蚂蚁集团，研究型实习生。Mixture-of-Expert, 基于大语言模型的工具学习[[PDF]](https://zhangyingerjelly.github.io/files/introduce_Reverse_chain.pdf)，基于大语言模型的 web-enhanced LFQA [[PDF]](https://zhangyingerjelly.github.io/files/introduction_RAG.pdf) 
 * 2023年12月-2024年5月，CSC 新加坡国立大学联合培养博士生。
-* <b> 2024年5月-至今，阿里巴巴通义实验室,千问基础大模型团队，暑期实习生，负责 qwen 模型 function call 能力的优化。</b>
+* <b> 2024年5月-至今，阿里巴巴通义实验室,千问基础模型团队，qwen-agent小组，Function Call，Tool integrated Reasoning。</b>
 
 论文列表
 ======
