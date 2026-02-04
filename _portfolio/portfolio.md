@@ -8,15 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher at the Qwen team, Alibaba Group. <br> I received my Ph.D. degree from Zhejiang University in 2025, where I also obtained my B.E. degree from the College of Information Science and Electronic Engineering in 2020.
-
-Research Interests
-======
-<b>\# AI applications (e.g. CV, NLP)</b>
-
-<b>\# Computational imaging</b>
-
-<b>\# Large Language Model, Agent</b>
+I am a Researcher at the Qwen team, Alibaba Group. <br> I received my Ph.D. degree from Zhejiang University in 2025, where I also obtained my B.E. degree from the College of Information Science and Electronic Engineering in 2020. <br> 
+My current research focuses on LLM agents.
 
 Publications
 ======
