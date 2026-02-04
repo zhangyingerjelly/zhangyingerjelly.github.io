@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student at Zhejiang University. I graduated from information and electronical engineering college, Zhejiang University with a bachelor's degree in 2020.<br>
-I will join the Qwen team, Alibaba Group after graduation.
+I am a Researcher at the Qwen team, Alibaba Group. <br> I received my Ph.D. degree from Zhejiang University in 2025, where I also obtained my B.E. degree from the College of Information Science and Electronic Engineering in 2020.
 
 Research Interests
 ======
