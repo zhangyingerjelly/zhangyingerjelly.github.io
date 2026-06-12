@@ -37,6 +37,9 @@ Xie Zhitian\*, <b>Zhang Yinger</b>\*, accepted by AAAI 2024, main conference.
 * <b>DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints</b>. [[PDF]](https://arxiv.org/abs/2601.18137) [[Blog]](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/) <br>
 <b>Zhang Yinger</b>\*, Jiang Shutong\*, Li Renhao\*, Tu Jianhong, Su Yang, Deng Lianghao, Guo Xudong, Lv Chenxu, Lin Junyang. <i>ACL 2026 (Oral).<i>
 
+* <b>OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language Environment Simulation</b>. [[PDF]](https://arxiv.org/abs/2604.10866) <br>
+Hu Xiaomeng\*, <b>Zhang Yinger</b>\*, Huang Fei, Tu Jianhong, Su Yang, Deng Lianghao, Liu Yuxuan, Liu Yantao, Liu Dayiheng, Ho Tsung-Yi. <i>arXiv:2604.10866, 2025.<i>
+
 * <b>Qwen3 Technical Report</b>. [[PDF]](https://arxiv.org/abs/2505.09388) <br>
 Qwen Team. 
 
