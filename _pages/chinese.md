@@ -46,6 +46,8 @@ Xie Zhitian\*, <b>Zhang Yinger</b>\*,accepted by AAAI 2024, main conference.
 * <b>Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning</b>. <br>
 <b>Zhang Yinger</b>\*, Cai Hui\*,  arXiv:2310.04474v2, Findings of NAACL 2024.
 
+* <b>DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints</b>. [[PDF]](https://arxiv.org/abs/2601.18137) [[Blog]](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/) <br>
+<b>Zhang Yinger</b>\*, Jiang Shutong\*, Li Renhao\*, Tu Jianhong, Su Yang, Deng Lianghao, Guo Xudong, Lv Chenxu, Lin Junyang. <i>ACL 2026 (Oral).<i>
 
 奖学金及荣誉称号
 ======
