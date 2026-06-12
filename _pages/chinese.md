@@ -49,6 +49,9 @@ Xie Zhitian\*, <b>Zhang Yinger</b>\*,accepted by AAAI 2024, main conference.
 * <b>DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints</b>. [[PDF]](https://arxiv.org/abs/2601.18137) [[Blog]](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/) <br>
 <b>Zhang Yinger</b>\*, Jiang Shutong\*, Li Renhao\*, Tu Jianhong, Su Yang, Deng Lianghao, Guo Xudong, Lv Chenxu, Lin Junyang. <i>ACL 2026 (Oral).<i>
 
+* <b>Qwen3 Technical Report</b>. [[PDF]](https://arxiv.org/abs/2505.09388) <br>
+Qwen Team. 
+
 奖学金及荣誉称号
 ======
 * 2021年浙江大学优秀研究生
